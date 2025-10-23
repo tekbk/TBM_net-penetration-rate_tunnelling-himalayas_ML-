@@ -7,7 +7,7 @@
 
 ---
 
-## Table of Contents
+## 📚 Table of Contents
 1. [Overview](#1-overview)  
 2. [Key Objectives](#2-key-objectives)  
 3. [Database Availability](#3-database-availability)  
