@@ -1,13 +1,13 @@
 # TBM_net-penetration-rate_tunnelling-himalayas_ML 
 ### TBM Penetration Rate Prediction in Himalayan Geology Using Machine Learning (ML) Techniques
 
-**Authors:** Tek Bahadur Katuwal & Krishna Kanta Panthi
+**Authors:** Tek Bahadur Katuwal & Krishna Kanta Panthi  
 **Institution:** Norwegian University of Science and Technology (NTNU)
 **Published in:** *Rock Mechanics and Rock Engineering (2025)* 
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 1. [Overview](#1-overview)  
 2. [Key Objectives](#2-key-objectives)  
 3. [Database Availability](#3-database-availability)  
@@ -46,31 +46,33 @@ Due to project confidentiality, the dataset **cannot be publicly shared**.
 ---
 
 ## 4. Repository Structure
+```
 TBM_net-penetration-rate_tunnelling-himalayas_ML/
 │
 ├── Data Analysis and Visualisation.ipynb
-│ (Script that produces general dataset info, Pearson Correlation Analysis,
-│ feature importance, Box–Whisker & Violin Plot, histogram distributions)
+│     (Script that produces general dataset info, Pearson Correlation Analysis,
+│      feature importance, Box–Whisker & Violin Plot, histogram distributions)
 │
 ├── Engineering Geological Assessment.ipynb
-│ (Visualizations of lithology, rock mass class, weathering grade,
-│ and rock strength distributions)
+│     (Visualizations of lithology, rock mass class, weathering grade,
+│      and rock strength distributions)
 │
 ├── Hyperparameter optimization/
-│ (Scripts for tuning optimal hyperparameters for selected regression models)
+│     (Scripts for tuning optimal hyperparameters for selected regression models)
 │
 ├── ML model/
-│ ├── Regression model training and testing scripts
-│ └── Model performance evaluation
+│     ├── Regression model training and testing scripts
+│     └── Model performance evaluation
 │
 ├── SHAP_Model Interpretability Analysis.ipynb
-│ (Model interpretability and feature influence analysis using SHAP)
+│     (Model interpretability and feature influence analysis using SHAP)
 │
 ├── Discussion of TBM Net Penetration Rate Performance Results.ipynb
-│ (Analysis of TBM performance in different lithology, rock mass quality,
-│ weathering, rock strength, and TBM jamming or thrust sections)
+│     (Analysis of TBM performance in different lithology, rock mass quality,
+│      weathering, rock strength, and TBM jamming or thrust sections)
 │
 └── README.md
+```
 ---
 
 ## 5. Data & Methodology
