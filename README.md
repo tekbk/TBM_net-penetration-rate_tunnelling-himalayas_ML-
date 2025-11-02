@@ -3,7 +3,8 @@
 
 **Authors:** Tek Bahadur Katuwal & Krishna Kanta Panthi  
 **Institution:** Norwegian University of Science and Technology (NTNU)
-**Published in:** *Rock Mechanics and Rock Engineering (2025)* 
+**Published in:** *Rock Mechanics and Rock Engineering (2025)*
+
 **DOI:** [https://doi.org/10.1007/s00603-025-05044-z](https://doi.org/10.1007/s00603-025-05044-z)
 
 ---
